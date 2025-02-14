@@ -1,0 +1,25 @@
+on-turn: []
+
+on-win:
+  - Yeah! I did it!
+  - Yeepee!
+  - Phew, that was tough!
+  - Good game!
+
+on-lose:
+  - Meh, better luck next time
+  - Good game :)
+  - You did well!
+  - Thanks for the game
+
+on-draw:
+  - Phew, that was close!
+  - Well done!
+  - Not bad
+
+before-play: 
+  - Let's see...
+  - Hmmm...
+  - Not sure what to do here.
+
+after-play: []
