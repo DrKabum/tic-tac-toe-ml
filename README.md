@@ -41,4 +41,4 @@ bun run index.ts --battle-of-ai --number-of-games 150000
 
 This will let the AIs play 150 000 games against each other. Some informations are displayed while doing so
 
-![battle of ai](run.gif)
+![Kapture 2025-02-17 at 08 49 00](https://github.com/user-attachments/assets/1c988521-ef85-483b-84cf-ed6322056dad)
